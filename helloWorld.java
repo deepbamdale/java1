@@ -1,2 +1,5 @@
-import java.util.Scanner;
-System.out.println("hello world");
+class FirstProgram{
+     public static void main(String[] args){
+         System.out.println("Hello, World!");
+     }
+ }
